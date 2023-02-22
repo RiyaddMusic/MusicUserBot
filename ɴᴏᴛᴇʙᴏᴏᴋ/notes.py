@@ -30,7 +30,7 @@ FULL_PLAYING_HELP =f"""👨🏻‍💻 **RoBotlarimTg MusicUserBot**\nMesajlar a
 👉Yeniləmələr üçün kanala abunə olun
 @RoBotlarimTg
 👨🏻‍💻**Sahib**
-@aykhan_s
+@thagiyevv
 """
 
 

@@ -51,7 +51,7 @@ async def delete_command_blue(messages: tuple, delay: int):
 """
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
-                    aykhan_s 
+                    Thagiyevv 
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
 """   

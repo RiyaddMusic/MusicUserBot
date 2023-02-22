@@ -53,7 +53,7 @@ async def ping_pong(_, ryui: Message):
     await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")
     delta_ping = time() - start
     hawk = await pwn.edit_text(
-        f"""**RoBotlarimTg** 👨🏻‍💻 @aykhan_s\n        
+        f"""**RiyaddBlogg** 👨🏻‍💻 @Thagiyevv\n        
 **Bəli, Mən aktivəm**:
         `{delta_ping * 1000:.3f}ms`"""
     )
@@ -72,7 +72,7 @@ async def delete_ryuk(messages: tuple, delay: int):
   \        /  \        /  \        /  \        /  \        /  \       
      \__/        \__/        \__/        \__/        \__/        \__/
      /  \        /  \        /  \        /  \        /  \        /  \
-  🇦🇿👉   \  aykhan_s \  bu tağı hələ çox yerdə görəcəksiniz...) /
+  🇦🇿👉   \  Thagiyevv \  bu tağı hələ çox yerdə görəcəksiniz...) /
 __/        \__/        \__/        \__/        \__/        \__/       
   \        /  \        /  \        /  \        /  \        /  \       
      \__/        \__/        \__/        \__/        \__/        \__/
